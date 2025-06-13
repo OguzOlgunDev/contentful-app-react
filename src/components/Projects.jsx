@@ -1,4 +1,4 @@
-import { FetchContent } from "../fetchContent";
+import { FetchContent } from "../FetchContent";
 
 function Projects() {
   const { projects, isLoading } = FetchContent();
